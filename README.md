@@ -55,6 +55,6 @@ Reach out to me via email regarding any questions or concerns with this project:
 
 # Media
 
-![](public\images\ground1.JPG)
-![](public\images\ground2.JPG)
-![](public\images\ground3.JPG)
+![](public/images/ground1.JPG)
+![](public/images/ground2.JPG)
+![](public/images/ground3.JPG)
