@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-lightblue.svg)
 
-The following application uses modern React.js to make use of multiple components to create a smooth and easy to interact with portfolio. Within this portfolio, users can disvocer information about me, quick links to projects I have done, and gain easy access to my social media links. This application utilizes technologies such as; Node.js, HTML, CSS, React.js, JSX, jQuery, and others. To view the deployed application, please click on the following link: 
+The following application uses modern React.js to make use of multiple components to create a smooth and easy to interact with portfolio. Within this portfolio, users can disvocer information about me, quick links to projects I have done, and gain easy access to my social media links. This application utilizes technologies such as; Node.js, HTML, CSS, React.js, JSX, jQuery, and others. To view the deployed application, please click on the following link: https://react-portfolio-chan.herokuapp.com/
 
 ## Features
 
