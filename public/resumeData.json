@@ -2,45 +2,30 @@
   "main": {
     "name":"Chandler Lowrance",
     "occupation":"Full Stack Web Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I am regarded by my peers as a relentless pursuer of knowledge and wisdom. Learning new skills and pushing my limits through hard work and innovation are when I am at my best. Read on to find out how I could be of service to you. ",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I am a full stack web developer leveraging an international business and economics background to build more well rounded websites and applications. I am currently pursuing a certificate in full stack development from Georgia Tech, with newly developed skills in JavaScript, CSS, HTML, and responsive web design. Known as an innovative problem solver passionate about developing creative and intuitive websites. With each project, my goal is to captivate my users via slick UI interfaces and easy to understand UX mechanics. I have applied this style of agile development in many of my recent projects. In my past profession I managed millions of dollars worth of inventory and worked on an international team that seamlessly delivered goods and services around the globe. Now I get to continue this high level of teamwork and collaboration as I work with fellow developers in my field to create powerful and responsive websites that drive business and commerce forward!",
+    "contactmessage":"To get in touch with me, please reach out to me at the following address or phone number. I look forward to speaking with you and learning about any new oppurtunities!",
+    "email": "chandler.lowrance1@gmail.com",
+    "phone": "770-757-4613",
     "address":{
       "street":"288 Dunstans Pass",
       "city":"Marietta",
       "state":"Georgia",
       "zip": "30066"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://chandler8.github.io/",
+    "resumedownload":"https://www.linkedin.com/in/chandler-lowrance/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABurTLsBPHnLxbpQ_znLSKvrmOkkEpAAZNE,1601924411536)/",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/chandler.lowrance",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/chandler-lowrance/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -48,116 +33,142 @@
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"instagram",
+        "url":"https://www.instagram.com/chanlowrance/",
+        "className":"fa fa-instagram"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Below you will find my level of proficiency in the given topic.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Georgia Tech",
+        "degree":"Full Stack Web Development",
+        "graduated":"December 2020",
+        "description":"Six-month immersive coding bootcamp covering MERN full-stack development."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Auburn University",
+        "degree":"German International Trade",
+        "graduated":"May 2019",
+        "description":"Completed 4 year degree with heavy emphasis on business, economics, and German."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Independent Web Developer",
+        "title":"Full Stack Engineer",
+        "years":"December 2019 - Present",
+        "description":"Create MERN applications from start to finish for customers, Interface with clients on their desires and then execute them into applications."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Windmöller Incorporated",
+        "title":"Accounts Manager/International Exports",
+        "years":"June 2019 – October 2019",
+        "description":"Worked under the Vice President of the US subsidiary, Managed multiple customers accounts ordering upwards of 6 million in goods yearly, Worked daily with colleagues in Germany to successfully execute exportation of materials globally"
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"85%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Node",
+        "level":"75%"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"HTML5",
+        "level":"100%"
+      },
+      {
+        "name":"MySQL",
+        "level":"60%"
+      },
+      {
+        "name":"React",
+        "level":"70%"
+      },
+      {
+        "name":"Dev Ops",
+        "level":"65%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Space Voyager",
+        "category":"Explore the Galaxy with this unique project.",
+        "image":"space.jpg",
+        "url":"http://space-voyager.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Musical Mood Generator",
+        "category":"Take your music experience to a new level.",
+        "image":"music1.jpg",
+        "url":"https://chandler8.github.io/Musical-Mood-Generator/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Star Wars JavaScript Quiz",
+        "category":"An adventure through time and space using JavaScript as our co-pilot.",
+        "image":"stormtrooper1.jpg",
+        "url":"https://chandler8.github.io/Star-Wars-JavaScript-Quiz/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Work Day Scheduler",
+        "category":"Navigating a 9-5 with a little extra help.",
+        "image":"planner1.jpg",
+        "url":"https://chandler8.github.io/Work-Day-Scheduler/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Employee Template Generator",
+        "category":"Assemble your team with this command line app.",
+        "image":"meetup.jpg",
+        "url":"https://github.com/Chandler8/Employee-Template-Generator"
+      },
+      {
+        "title":"README Generator",
+        "category":"Create succinct and compelling README files.",
+        "image":"readup.jpg",
+        "url":"https://github.com/Chandler8/README-Generator"
+      },
+      {
+        "title":"Employee Directory w/ React",
+        "category":"Streamlining the process of maintaining an employee database for communication purposes.",
+        "image":"directory.jpg",
+        "url":"https://chandler8.github.io/Employee-Directory-React/"
+      },
+      {
+        "title":"Workout Tracker",
+        "category":"Users can create and customize their workout whether it be cardio or weight focused.",
+        "image":"workout.jpg",
+        "url":"https://stark-savannah-12282.herokuapp.com/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
+        "user":"Steve Jobs"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.",
+        "user":"Aristotle"
       }
     ]
   }
