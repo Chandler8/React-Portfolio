@@ -41,6 +41,7 @@ class Header extends Component {
             <ul className="social">
                {networks}
             </ul>
+            
          </div>
       </div>
 

@@ -29,7 +29,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/Chandler8",
         "className":"fa fa-github"
       },
       {
@@ -40,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Below you will find my level of proficiency in the given topic.",
+    "skillmessage":"Listed below are my skills in regards to Front End, Back End, and Databases.",
     "education":[
       {
         "school":"Georgia Tech",
@@ -71,40 +71,40 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"85%"
+        "name":"Git"
       },
       {
-        "name":"Node",
-        "level":"75%"
+        "name":"Node"
       },
       {
-        "name":"MongoDB",
-        "level":"65%"
+        "name":"MongoDB"
       },
       {
-        "name":"CSS",
-        "level":"100%"
+        "name":"CSS"
       },
       {
-        "name":"HTML5",
-        "level":"100%"
+        "name":"HTML5"
       },
       {
-        "name":"MySQL",
-        "level":"60%"
+        "name":"MySQL"
       },
       {
-        "name":"React",
-        "level":"70%"
+        "name":"React"
       },
       {
-        "name":"Dev Ops",
-        "level":"65%"
+        "name":"Dev Ops"
       },
       {
-        "name":"JavaScript",
-        "level":"70%"
+        "name":"JavaScript"
+      },
+      {
+        "name":"AWS"
+      },
+      {
+        "name":"Heroku"
+      },
+      {
+        "name":"API Integration"
       }
     ]
   },
